@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 April<br>📚 I'm currently learning Full-Stack Development<br>🎯 Goals: Learn and improve my knowledge more and more<br>🎲 Fun fact: I'm a perfectionist person</p>
+<p align="left">✨ Creating bugs since 2024 April<br>📚 I'm currently learning Full-Stack Development<br>🎯 Goals: Learn and improve my knowledge more and more<br>🎲 Fun fact: I have a perfectionist personality</p>
 
 ###
 
